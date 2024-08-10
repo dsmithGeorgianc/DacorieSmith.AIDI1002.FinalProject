@@ -17,7 +17,7 @@
 
 Replace the the directory location with your locations beofre runnong the code are you will with get an error 
 
-#nStep 1
+# Step 1
 
 You can run the following test.py string 
 
