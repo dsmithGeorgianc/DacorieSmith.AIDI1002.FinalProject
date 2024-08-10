@@ -14,15 +14,15 @@ This code improves on the following project
 
 ## replace the directory 
 
-#Step 0.5
+# Step 0.5
 
 Replace the the directory location with your locations beofre runnong the code are you will with get an error 
 
-#Step 1
+#nStep 1
 
 You can run the following test.py string 
 
-Step 2
+# Step 2
 Run the Predict scripts 
 
 
