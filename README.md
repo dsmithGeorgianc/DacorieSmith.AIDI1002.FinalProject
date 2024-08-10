@@ -1,38 +1,55 @@
+# Quantifying Stereotypes in Language
+=====================================
 
-# This code improves on the following project the Quantifying Stereotypes in Language
+## Repository Overview
+-----------------------
 
-> Code for paper ***[Quantifying Stereotypes in Language](https://arxiv.org/abs/2401.15535)*** (accepted by **[EACL 2024](https://2024.eacl.org/)**)
+This repository contains the code for the paper "Quantifying Stereotypes in Language", accepted for publication at EACL 2024.
 
-## Dataset Details
+## Dataset
+------------
 
-| train | test | val |
-|-------|------|-----|
-| 2,260 | 358  | 358 |
+### Dataset Overview
 
-## Running The code 
+| Split | Number of Samples |
+| --- | --- |
+| Train | 2,260 |
+| Test | 358 |
+| Validation | 358 |
 
-## replace the directory 
+## Getting Started
+-------------------
 
-# Step 0.5
+### Prerequisites
 
-Replace the the directory location with your locations beofre runnong the code are you will with get an error 
+* Python 3.x
+* Required libraries: `python -m pip install -r requirements.txt`
 
-# Step 1
+### Running the Code
 
-You can run the following test.py string 
+#### Step 1: Update Directory Paths
 
-# Step 2
-Run the Predict scripts 
+Update directory paths in the code to match your local machine setup.
 
+#### Step 2: Execute the Test Script
 
+```bash
+python test.py
+```
 
+Step 3: Run the Prediction Scripts
 
-\cite
-```bibtex
+```bash
+python predict.py
+```
+
+Citation
+------------
+If you use this code or dataset in your research, please cite:
+Bibtex
 @article{liu2024quantifying,
   title={Quantifying Stereotypes in Language},
   author={Liu, Yang},
   journal={arXiv preprint arXiv:2401.15535},
   year={2024}
 }
-```
