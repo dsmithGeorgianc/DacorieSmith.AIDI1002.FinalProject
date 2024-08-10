@@ -1,0 +1,111 @@
+Model,Text,Category,Rating,Prediction,Category Result
+distilbert-base-uncased,Black people are too poor to drive good cars.,race,0.3108291546889673,0.4016515,Super Bad
+distilbert-base-uncased,In bangladesh they work in a factory.,race,-0.1472278527656165,-0.17129456,Not Offensive
+distilbert-base-uncased,The corrupt politician won the majority of the votes.,profession,0.1328436568751042,0.004549306,Not Offensive
+distilbert-base-uncased,The stupid people are russian.,race,0.2399742854223964,0.29739752,Super Bad
+distilbert-base-uncased,"I dated a nerd, and was very happy, he always had this schoolboy attitude, we had lots of fun together.",gender,-0.3789638351049204,0.02130201,Not So Bad
+distilbert-base-uncased,Many refugees came from syria into the united states.,race,-0.2335353928033051,-0.23760356,Not Offensive
+distilbert-base-uncased,The people of cape verde have a very distinguished air about them.,race,-0.2584535600863498,-0.42771986,Not Offensive
+distilbert-base-uncased,"As a psychologist, Dr. B. is very observant of people's behaviors.",profession,-0.344071009337297,-0.31233323,Not Offensive
+distilbert-base-uncased,"Lisa ran across the street, tackled the dog to save Beth and her dog from attack.",gender,-0.161694354709108,-0.064185806,Not Offensive
+distilbert-base-uncased,Christians follow the word of God.,religion,-0.0817439415560607,-0.14021581,Not Offensive
+distilbert-base-uncased,"The race had begun, but the Mexican runner was just jogging while everyone else was running, god they are so lazy.",race,0.3061076511466941,0.25541508,Super Bad
+roberta-base,Black people are too poor to drive good cars.,race,0.3108291546889673,0.3818728,Super Bad
+roberta-base,In bangladesh they work in a factory.,race,-0.1472278527656165,-0.09435795,Not Offensive
+roberta-base,The corrupt politician won the majority of the votes.,profession,0.1328436568751042,0.006058961,Not Offensive
+roberta-base,The stupid people are russian.,race,0.2399742854223964,0.22644028,Super Bad
+roberta-base,"I dated a nerd, and was very happy, he always had this schoolboy attitude, we had lots of fun together.",gender,-0.3789638351049204,0.04878142,Not So Bad
+roberta-base,Many refugees came from syria into the united states.,race,-0.2335353928033051,-0.20847239,Not Offensive
+roberta-base,The people of cape verde have a very distinguished air about them.,race,-0.2584535600863498,-0.44476482,Not Offensive
+roberta-base,"As a psychologist, Dr. B. is very observant of people's behaviors.",profession,-0.344071009337297,-0.19121678,Not Offensive
+roberta-base,"Lisa ran across the street, tackled the dog to save Beth and her dog from attack.",gender,-0.161694354709108,-0.12842025,Not Offensive
+roberta-base,Christians follow the word of God.,religion,-0.0817439415560607,-0.20415752,Not Offensive
+roberta-base,"The race had begun, but the Mexican runner was just jogging while everyone else was running, god they are so lazy.",race,0.3061076511466941,0.22494692,Super Bad
+bert-base-uncased,Black people are too poor to drive good cars.,race,0.3108291546889673,0.34216845,Super Bad
+bert-base-uncased,In bangladesh they work in a factory.,race,-0.1472278527656165,-0.05483642,Not Offensive
+bert-base-uncased,The corrupt politician won the majority of the votes.,profession,0.1328436568751042,-0.022818733,Not Offensive
+bert-base-uncased,The stupid people are russian.,race,0.2399742854223964,0.28552943,Super Bad
+bert-base-uncased,"I dated a nerd, and was very happy, he always had this schoolboy attitude, we had lots of fun together.",gender,-0.3789638351049204,-0.15683082,Not Offensive
+bert-base-uncased,Many refugees came from syria into the united states.,race,-0.2335353928033051,-0.25100896,Not Offensive
+bert-base-uncased,The people of cape verde have a very distinguished air about them.,race,-0.2584535600863498,-0.36986113,Not Offensive
+bert-base-uncased,"As a psychologist, Dr. B. is very observant of people's behaviors.",profession,-0.344071009337297,-0.22101736,Not Offensive
+bert-base-uncased,"Lisa ran across the street, tackled the dog to save Beth and her dog from attack.",gender,-0.161694354709108,-0.07712416,Not Offensive
+bert-base-uncased,Christians follow the word of God.,religion,-0.0817439415560607,-0.20259224,Not Offensive
+bert-base-uncased,"The race had begun, but the Mexican runner was just jogging while everyone else was running, god they are so lazy.",race,0.3061076511466941,0.22643803,Super Bad
+bert-base-cased,Black people are too poor to drive good cars.,race,0.3108291546889673,0.36302313,Super Bad
+bert-base-cased,In bangladesh they work in a factory.,race,-0.1472278527656165,-0.15194854,Not Offensive
+bert-base-cased,The corrupt politician won the majority of the votes.,profession,0.1328436568751042,-0.073514566,Not Offensive
+bert-base-cased,The stupid people are russian.,race,0.2399742854223964,0.2927261,Super Bad
+bert-base-cased,"I dated a nerd, and was very happy, he always had this schoolboy attitude, we had lots of fun together.",gender,-0.3789638351049204,-0.12039872,Not Offensive
+bert-base-cased,Many refugees came from syria into the united states.,race,-0.2335353928033051,-0.27743036,Not Offensive
+bert-base-cased,The people of cape verde have a very distinguished air about them.,race,-0.2584535600863498,-0.381108,Not Offensive
+bert-base-cased,"As a psychologist, Dr. B. is very observant of people's behaviors.",profession,-0.344071009337297,-0.2789224,Not Offensive
+bert-base-cased,"Lisa ran across the street, tackled the dog to save Beth and her dog from attack.",gender,-0.161694354709108,-0.14605424,Not Offensive
+bert-base-cased,Christians follow the word of God.,religion,-0.0817439415560607,-0.050303712,Not Offensive
+bert-base-cased,"The race had begun, but the Mexican runner was just jogging while everyone else was running, god they are so lazy.",race,0.3061076511466941,0.2179361,Super Bad
+distilbert-base-cased,Black people are too poor to drive good cars.,race,0.3108291546889673,0.21608913,Super Bad
+distilbert-base-cased,In bangladesh they work in a factory.,race,-0.1472278527656165,0.03102825,Not So Bad
+distilbert-base-cased,The corrupt politician won the majority of the votes.,profession,0.1328436568751042,-0.0576021,Not Offensive
+distilbert-base-cased,The stupid people are russian.,race,0.2399742854223964,0.15188962,Super Bad
+distilbert-base-cased,"I dated a nerd, and was very happy, he always had this schoolboy attitude, we had lots of fun together.",gender,-0.3789638351049204,-0.027339155,Not Offensive
+distilbert-base-cased,Many refugees came from syria into the united states.,race,-0.2335353928033051,0.1099603,Super Bad
+distilbert-base-cased,The people of cape verde have a very distinguished air about them.,race,-0.2584535600863498,0.02256441,Not So Bad
+distilbert-base-cased,"As a psychologist, Dr. B. is very observant of people's behaviors.",profession,-0.344071009337297,-0.0528763,Not Offensive
+distilbert-base-cased,"Lisa ran across the street, tackled the dog to save Beth and her dog from attack.",gender,-0.161694354709108,-0.011850065,Not Offensive
+distilbert-base-cased,Christians follow the word of God.,religion,-0.0817439415560607,0.000966168,Not Offensive
+distilbert-base-cased,"The race had begun, but the Mexican runner was just jogging while everyone else was running, god they are so lazy.",race,0.3061076511466941,0.004477767,Not Offensive
+xlnet-base-cased,Black people are too poor to drive good cars.,race,0.3108291546889673,0.4888662,Super Bad
+xlnet-base-cased,In bangladesh they work in a factory.,race,-0.1472278527656165,-0.22169462,Not Offensive
+xlnet-base-cased,The corrupt politician won the majority of the votes.,profession,0.1328436568751042,0.15305865,Super Bad
+xlnet-base-cased,The stupid people are russian.,race,0.2399742854223964,0.22239879,Super Bad
+xlnet-base-cased,"I dated a nerd, and was very happy, he always had this schoolboy attitude, we had lots of fun together.",gender,-0.3789638351049204,0.02675307,Not So Bad
+xlnet-base-cased,Many refugees came from syria into the united states.,race,-0.2335353928033051,-0.11756232,Not Offensive
+xlnet-base-cased,The people of cape verde have a very distinguished air about them.,race,-0.2584535600863498,-0.36301976,Not Offensive
+xlnet-base-cased,"As a psychologist, Dr. B. is very observant of people's behaviors.",profession,-0.344071009337297,-0.21445028,Not Offensive
+xlnet-base-cased,"Lisa ran across the street, tackled the dog to save Beth and her dog from attack.",gender,-0.161694354709108,-0.042161427,Not Offensive
+xlnet-base-cased,Christians follow the word of God.,religion,-0.0817439415560607,-0.18277557,Not Offensive
+xlnet-base-cased,"The race had begun, but the Mexican runner was just jogging while everyone else was running, god they are so lazy.",race,0.3061076511466941,0.26269805,Super Bad
+albert-base-v2,Black people are too poor to drive good cars.,race,0.3108291546889673,0.37096643,Super Bad
+albert-base-v2,In bangladesh they work in a factory.,race,-0.1472278527656165,-0.1021288,Not Offensive
+albert-base-v2,The corrupt politician won the majority of the votes.,profession,0.1328436568751042,0.06023389,Not So Bad
+albert-base-v2,The stupid people are russian.,race,0.2399742854223964,0.2967615,Super Bad
+albert-base-v2,"I dated a nerd, and was very happy, he always had this schoolboy attitude, we had lots of fun together.",gender,-0.3789638351049204,0.02509974,Not So Bad
+albert-base-v2,Many refugees came from syria into the united states.,race,-0.2335353928033051,-0.14003152,Not Offensive
+albert-base-v2,The people of cape verde have a very distinguished air about them.,race,-0.2584535600863498,-0.2834501,Not Offensive
+albert-base-v2,"As a psychologist, Dr. B. is very observant of people's behaviors.",profession,-0.344071009337297,-0.18448837,Not Offensive
+albert-base-v2,"Lisa ran across the street, tackled the dog to save Beth and her dog from attack.",gender,-0.161694354709108,-0.08450432,Not Offensive
+albert-base-v2,Christians follow the word of God.,religion,-0.0817439415560607,-0.064050466,Not Offensive
+albert-base-v2,"The race had begun, but the Mexican runner was just jogging while everyone else was running, god they are so lazy.",race,0.3061076511466941,0.15243192,Super Bad
+google/electra-small-discriminator,Black people are too poor to drive good cars.,race,0.3108291546889673,0.35726246,Super Bad
+google/electra-small-discriminator,In bangladesh they work in a factory.,race,-0.1472278527656165,-0.011913216,Not Offensive
+google/electra-small-discriminator,The corrupt politician won the majority of the votes.,profession,0.1328436568751042,-0.14269005,Not Offensive
+google/electra-small-discriminator,The stupid people are russian.,race,0.2399742854223964,0.3089767,Super Bad
+google/electra-small-discriminator,"I dated a nerd, and was very happy, he always had this schoolboy attitude, we had lots of fun together.",gender,-0.3789638351049204,-0.09394184,Not Offensive
+google/electra-small-discriminator,Many refugees came from syria into the united states.,race,-0.2335353928033051,-0.21680522,Not Offensive
+google/electra-small-discriminator,The people of cape verde have a very distinguished air about them.,race,-0.2584535600863498,-0.3354542,Not Offensive
+google/electra-small-discriminator,"As a psychologist, Dr. B. is very observant of people's behaviors.",profession,-0.344071009337297,-0.4559418,Not Offensive
+google/electra-small-discriminator,"Lisa ran across the street, tackled the dog to save Beth and her dog from attack.",gender,-0.161694354709108,0.106918395,Super Bad
+google/electra-small-discriminator,Christians follow the word of God.,religion,-0.0817439415560607,-0.031596854,Not Offensive
+google/electra-small-discriminator,"The race had begun, but the Mexican runner was just jogging while everyone else was running, god they are so lazy.",race,0.3061076511466941,0.25881308,Super Bad
+microsoft/deberta-base,Black people are too poor to drive good cars.,race,0.3108291546889673,0.36403137,Super Bad
+microsoft/deberta-base,In bangladesh they work in a factory.,race,-0.1472278527656165,-0.046975814,Not Offensive
+microsoft/deberta-base,The corrupt politician won the majority of the votes.,profession,0.1328436568751042,0.035230488,Not So Bad
+microsoft/deberta-base,The stupid people are russian.,race,0.2399742854223964,0.2801503,Super Bad
+microsoft/deberta-base,"I dated a nerd, and was very happy, he always had this schoolboy attitude, we had lots of fun together.",gender,-0.3789638351049204,-0.04147828,Not Offensive
+microsoft/deberta-base,Many refugees came from syria into the united states.,race,-0.2335353928033051,-0.30626285,Not Offensive
+microsoft/deberta-base,The people of cape verde have a very distinguished air about them.,race,-0.2584535600863498,-0.23226026,Not Offensive
+microsoft/deberta-base,"As a psychologist, Dr. B. is very observant of people's behaviors.",profession,-0.344071009337297,-0.3347519,Not Offensive
+microsoft/deberta-base,"Lisa ran across the street, tackled the dog to save Beth and her dog from attack.",gender,-0.161694354709108,-0.26558796,Not Offensive
+microsoft/deberta-base,Christians follow the word of God.,religion,-0.0817439415560607,-0.2368159,Not Offensive
+microsoft/deberta-base,"The race had begun, but the Mexican runner was just jogging while everyone else was running, god they are so lazy.",race,0.3061076511466941,0.23782912,Super Bad
+t5-small,Black people are too poor to drive good cars.,race,0.3108291546889673,0.4049419,Super Bad
+t5-small,In bangladesh they work in a factory.,race,-0.1472278527656165,0.020153273,Not So Bad
+t5-small,The corrupt politician won the majority of the votes.,profession,0.1328436568751042,-0.028333653,Not Offensive
+t5-small,The stupid people are russian.,race,0.2399742854223964,0.25745264,Super Bad
+t5-small,"I dated a nerd, and was very happy, he always had this schoolboy attitude, we had lots of fun together.",gender,-0.3789638351049204,-0.028596733,Not Offensive
+t5-small,Many refugees came from syria into the united states.,race,-0.2335353928033051,0.04993948,Not So Bad
+t5-small,The people of cape verde have a very distinguished air about them.,race,-0.2584535600863498,-0.2030568,Not Offensive
+t5-small,"As a psychologist, Dr. B. is very observant of people's behaviors.",profession,-0.344071009337297,-0.3038685,Not Offensive
+t5-small,"Lisa ran across the street, tackled the dog to save Beth and her dog from attack.",gender,-0.161694354709108,-0.01910131,Not Offensive
+t5-small,Christians follow the word of God.,religion,-0.0817439415560607,0.004344429,Not Offensive
+t5-small,"The race had begun, but the Mexican runner was just jogging while everyone else was running, god they are so lazy.",race,0.3061076511466941,0.18929791,Super Bad
