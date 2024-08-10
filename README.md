@@ -12,7 +12,7 @@ This code improves on the following project
 
 ## Running The code 
 
-# replace the directory 
+## replace the directory 
 
 #Step 0.5
 
