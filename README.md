@@ -1,6 +1,5 @@
-This code improves on the following project 
 
-# Quantifying Stereotypes in Language
+#This code improves on the following project the Quantifying Stereotypes in Language
 
 > Code for paper ***[Quantifying Stereotypes in Language](https://arxiv.org/abs/2401.15535)*** (accepted by **[EACL 2024](https://2024.eacl.org/)**)
 
