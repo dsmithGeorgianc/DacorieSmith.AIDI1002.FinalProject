@@ -10,11 +10,13 @@ This code improves on the following project
 |-------|------|-----|
 | 2,260 | 358  | 358 |
 
-## Training Models
-
-How to run code :
+## Running The code 
 
 # replace the directory 
+
+#Step 0.5
+
+Replace the the directory location with your locations beofre runnong the code are you will with get an error 
 
 #Step 1
 
