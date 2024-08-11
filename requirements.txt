@@ -1,0 +1,8 @@
+nltk==3.8.1  # For natural language processing and data augmentation
+numpy==1.24.3  # For numerical operations
+pandas==2.0.3  # For handling CSV files and data manipulation
+scipy==1.10.1  # For statistical functions like Pearson correlation
+sklearn==1.2.2  # For accuracy and F1 score calculations
+torch==2.0.1  # For PyTorch functionalities
+tqdm==4.65.0  # For progress bars in loops
+transformers==4.30.2  # For using pre-trained models and tokenization
