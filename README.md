@@ -25,6 +25,7 @@ This repository contains modifiy code based on for the paper "Quantifying Stereo
 * Python 3.x
 * Required libraries: `python -m pip install -r requirements.txt`
 * a text editor such pycharm or text editor
+* Make sure you the follow folders models,logs
 
 ### Running the Code
 
