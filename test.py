@@ -3,17 +3,17 @@ import os
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
 models = [
-    #"bert-base-uncased",
-     #  "bert-base-cased",
-    #   "distilbert-base-uncased",
-    #   "distilbert-base-cased",
-    #  "roberta-base",
-    #  "xlnet-base-cased",
-    #    "albert-base-v2",
-    #  "google/electra-small-discriminator",
-    #  "microsoft/deberta-base",
+    "bert-base-uncased",
+      "bert-base-cased",
+      "distilbert-base-uncased",
+       "distilbert-base-cased",
+       "roberta-base",
+      "xlnet-base-cased",
+         "albert-base-v2",
+      "google/electra-small-discriminator",
+       "microsoft/deberta-base",
      "t5-small",
-    # "gpt2",
+    "gpt2",
 ]
 
 base_command = "python /Users/dacoriesmith/PycharmProjects/business_uccession_analytics_planning/machine_learning_programming/quantifying-stereotypes-in-language/train.py --mode train"
