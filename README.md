@@ -4,7 +4,7 @@
 ## Repository Overview
 -----------------------
 
-This repository contains the code for the paper "Quantifying Stereotypes in Language", accepted for publication at EACL 2024.
+This repository contains modifiy code based on for the paper "Quantifying Stereotypes in Language", accepted for publication at EACL 2024.
 
 ## Dataset
 ------------
@@ -24,6 +24,7 @@ This repository contains the code for the paper "Quantifying Stereotypes in Lang
 
 * Python 3.x
 * Required libraries: `python -m pip install -r requirements.txt`
+* a text editor such pycharm or text editor
 
 ### Running the Code
 
