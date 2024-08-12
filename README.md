@@ -1,5 +1,10 @@
-# Quantifying Stereotypes in Language
+#Improving The Quantifying Stereotypes in Language Code 
 =====================================
+
+Done By :
+Dacorie Smith 
+Olukayode Adegboyega
+
 
 ## Repository Overview
 -----------------------
